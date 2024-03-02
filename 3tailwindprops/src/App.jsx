@@ -1,6 +1,6 @@
-import { Card1 } from './components/Card'
-import { Card2 } from './components/Card'
-import { Card3 } from './components/Card'
+// import { Card1 } from './components/Card'
+// import { Card2 } from './components/Card'
+// import { Card3 } from './components/Card'
 import { Cardd } from './components/Card'
 
 function App() {
